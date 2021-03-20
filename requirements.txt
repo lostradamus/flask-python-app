@@ -21,7 +21,7 @@ iampoliciesgonewild==1.0.6.2
 idna==2.8
 ipaddress==1.0.22
 itsdangerous==1.1.0
-Jinja2==2.10.1
+Jinja2==2.11.3
 jmespath==0.9.4
 macholib==1.5.1
 MarkupSafe==1.1.1
